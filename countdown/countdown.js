@@ -14,3 +14,5 @@ function countdown() {
 
 // intial call
 countdown();
+
+setInterval(countdown, 1000)
